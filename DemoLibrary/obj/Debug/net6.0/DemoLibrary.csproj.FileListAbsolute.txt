@@ -1,0 +1,12 @@
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+C:\Users\JANUARIUS NJOKU\source\repos\DIPDemo\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
